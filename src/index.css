@@ -1,0 +1,26 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;1,500&display=swap'); */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+  font-family: 'Raleway', sans-serif;
+} */
+
+.bars {
+  position: absolute;
+  top: 10;
+  margin-left: 10px;
+}
+
+body {
+  background-color: #EDF1FA;
+  font-family: sans-serif;
+}
+
+.quote {
+  position: absolute;
+  /* left: 250px;
+  top: 0px; */
+
+}
